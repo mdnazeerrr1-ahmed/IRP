@@ -1,0 +1,143 @@
+# STUDENT_ACADEMIC_ANALYTICS_DATA_V1
+STUDENT_COUNT 20
+STUDENT|STU-1001|Alex Johnson|Computer Science|2|4|6|7.55|7.55|Good
+SUBJECT|CS401|Data Structures & Algorithms|4|4|94.50|A+|10
+SUBJECT|CS402|Database Management Systems|4|4|88.00|A|9
+SUBJECT|CS403|Operating Systems Architecture|4|4|91.00|A+|10
+SUBJECT|MA401|Discrete Mathematics & Logic|3|4|96.00|A+|10
+SUBJECT|CS405|Software Engineering Lab|2|4|92.00|A+|10
+SUBJECT|cv787|bee|5|3|8.00|F|0
+END_STUDENT
+STUDENT|STU-1002|Priya Patel|Electronics & Comm.|2|4|5|8.59|8.59|Good
+SUBJECT|EC401|Signals and Linear Systems|4|4|82.50|A|9
+SUBJECT|EC402|Microprocessor & Interfaces|4|4|76.00|B+|8
+SUBJECT|EC403|Electromagnetic Field Theory|3|4|71.00|B+|8
+SUBJECT|EC404|Analog Circuit Design|4|4|85.00|A|9
+SUBJECT|EC405|Hardware Simulation Lab|2|4|88.00|A|9
+END_STUDENT
+STUDENT|STU-1003|Michael Brown|Mechanical Engg.|2|4|5|4.76|4.76|Needs Improvement
+SUBJECT|ME401|Applied Thermodynamics|4|4|34.00|F|0
+SUBJECT|ME402|Fluid Mechanics & Machinery|4|4|46.00|D|5
+SUBJECT|ME403|Kinematics of Machines|4|4|58.00|C|6
+SUBJECT|ME404|Manufacturing Technology|3|4|64.00|B|7
+SUBJECT|ME405|Computer-Aided Drafting Lab|2|4|72.00|B+|8
+END_STUDENT
+STUDENT|STU-1004|Shaik Adnan Hyder|Computer Science|2|4|5|8.53|8.53|Good
+SUBJECT|CS401|Data Structures & Algorithms|4|4|84.00|A|9
+SUBJECT|CS402|Database Management Systems|4|4|74.00|B+|8
+SUBJECT|CS403|Operating Systems Architecture|4|4|77.00|B+|8
+SUBJECT|MA401|Discrete Mathematics & Logic|3|4|86.00|A|9
+SUBJECT|CS405|Software Engineering Lab|2|4|89.00|A|9
+END_STUDENT
+STUDENT|STU-1005|Mohammed Nazeer|Electronics & Comm.|2|4|5|8.18|8.18|Good
+SUBJECT|EC401|Signals and Linear Systems|4|4|78.00|B+|8
+SUBJECT|EC402|Microprocessor & Interfaces|4|4|82.00|A|9
+SUBJECT|EC403|Electromagnetic Field Theory|3|4|66.00|B|7
+SUBJECT|EC404|Analog Circuit Design|4|4|79.00|B+|8
+SUBJECT|EC405|Hardware Simulation Lab|2|4|87.00|A|9
+END_STUDENT
+STUDENT|STU-1006|Rahul Verma|Computer Science|2|4|5|8.94|8.94|Good
+SUBJECT|CS401|Data Structures & Algorithms|4|4|86.00|A|9
+SUBJECT|CS402|Database Management Systems|4|4|78.00|B+|8
+SUBJECT|CS403|Operating Systems Architecture|4|4|84.00|A|9
+SUBJECT|MA401|Discrete Mathematics & Logic|3|4|90.00|A+|10
+SUBJECT|CS405|Software Engineering Lab|2|4|88.00|A|9
+END_STUDENT
+STUDENT|STU-1007|Ananya Reddy|Computer Science|2|4|5|7.88|7.88|Good
+SUBJECT|CS401|Data Structures & Algorithms|4|4|74.00|B+|8
+SUBJECT|CS402|Database Management Systems|4|4|66.00|B|7
+SUBJECT|CS403|Operating Systems Architecture|4|4|76.00|B+|8
+SUBJECT|MA401|Discrete Mathematics & Logic|3|4|79.00|B+|8
+SUBJECT|CS405|Software Engineering Lab|2|4|85.00|A|9
+END_STUDENT
+STUDENT|STU-1008|Kavya Menon|Computer Science|2|4|5|9.59|9.59|Excellent
+SUBJECT|CS401|Data Structures & Algorithms|4|4|95.00|A+|10
+SUBJECT|CS402|Database Management Systems|4|4|89.00|A|9
+SUBJECT|CS403|Operating Systems Architecture|4|4|93.00|A+|10
+SUBJECT|MA401|Discrete Mathematics & Logic|3|4|87.00|A|9
+SUBJECT|CS405|Software Engineering Lab|2|4|97.00|A+|10
+END_STUDENT
+STUDENT|STU-1009|Arjun Kumar|Computer Science|2|4|5|7.06|7.06|Average
+SUBJECT|CS401|Data Structures & Algorithms|4|4|64.00|B|7
+SUBJECT|CS402|Database Management Systems|4|4|56.00|C|6
+SUBJECT|CS403|Operating Systems Architecture|4|4|67.00|B|7
+SUBJECT|MA401|Discrete Mathematics & Logic|3|4|73.00|B+|8
+SUBJECT|CS405|Software Engineering Lab|2|4|76.00|B+|8
+END_STUDENT
+STUDENT|STU-1010|Isha Singh|Electronics & Comm.|2|4|5|8.88|8.88|Good
+SUBJECT|EC401|Signals and Linear Systems|4|4|84.00|A|9
+SUBJECT|EC402|Microprocessor & Interfaces|4|4|77.00|B+|8
+SUBJECT|EC403|Electromagnetic Field Theory|3|4|85.00|A|9
+SUBJECT|EC404|Analog Circuit Design|4|4|88.00|A|9
+SUBJECT|EC405|Hardware Simulation Lab|2|4|94.00|A+|10
+END_STUDENT
+STUDENT|STU-1011|Rohan Das|Electronics & Comm.|2|4|5|6.88|6.88|Average
+SUBJECT|EC401|Signals and Linear Systems|4|4|65.00|B|7
+SUBJECT|EC402|Microprocessor & Interfaces|4|4|55.00|C|6
+SUBJECT|EC403|Electromagnetic Field Theory|3|4|68.00|B|7
+SUBJECT|EC404|Analog Circuit Design|4|4|63.00|B|7
+SUBJECT|EC405|Hardware Simulation Lab|2|4|79.00|B+|8
+END_STUDENT
+STUDENT|STU-1012|Sneha Iyer|Electronics & Comm.|2|4|5|8.53|8.53|Good
+SUBJECT|EC401|Signals and Linear Systems|4|4|78.00|B+|8
+SUBJECT|EC402|Microprocessor & Interfaces|4|4|80.00|A|9
+SUBJECT|EC403|Electromagnetic Field Theory|3|4|83.00|A|9
+SUBJECT|EC404|Analog Circuit Design|4|4|75.00|B+|8
+SUBJECT|EC405|Hardware Simulation Lab|2|4|89.00|A|9
+END_STUDENT
+STUDENT|STU-1013|Aditya Rao|Mechanical Engg.|2|4|5|7.59|7.59|Good
+SUBJECT|ME401|Applied Thermodynamics|4|4|77.00|B+|8
+SUBJECT|ME402|Fluid Mechanics & Machinery|4|4|68.00|B|7
+SUBJECT|ME403|Kinematics of Machines|4|4|72.00|B+|8
+SUBJECT|ME404|Manufacturing Technology|3|4|64.00|B|7
+SUBJECT|ME405|Computer-Aided Drafting Lab|2|4|78.00|B+|8
+END_STUDENT
+STUDENT|STU-1014|Neha Kapoor|Mechanical Engg.|2|4|5|6.18|6.18|Average
+SUBJECT|ME401|Applied Thermodynamics|4|4|54.00|C|6
+SUBJECT|ME402|Fluid Mechanics & Machinery|4|4|48.00|D|5
+SUBJECT|ME403|Kinematics of Machines|4|4|56.00|C|6
+SUBJECT|ME404|Manufacturing Technology|3|4|66.00|B|7
+SUBJECT|ME405|Computer-Aided Drafting Lab|2|4|75.00|B+|8
+END_STUDENT
+STUDENT|STU-1015|Sandeep Roy|Mechanical Engg.|2|4|5|4.29|4.29|Needs Improvement
+SUBJECT|ME401|Applied Thermodynamics|4|4|32.00|F|0
+SUBJECT|ME402|Fluid Mechanics & Machinery|4|4|46.00|D|5
+SUBJECT|ME403|Kinematics of Machines|4|4|58.00|C|6
+SUBJECT|ME404|Manufacturing Technology|3|4|44.00|D|5
+SUBJECT|ME405|Computer-Aided Drafting Lab|2|4|66.00|B|7
+END_STUDENT
+STUDENT|STU-1016|Pooja Jain|Civil Engineering|2|4|5|8.94|8.94|Good
+SUBJECT|CE401|Structural Analysis|4|4|85.00|A|9
+SUBJECT|CE402|Surveying and Geomatics|4|4|78.00|B+|8
+SUBJECT|CE403|Concrete Technology|4|4|88.00|A|9
+SUBJECT|MA401|Engineering Mathematics|3|4|93.00|A+|10
+SUBJECT|CE405|Civil Engineering Lab|2|4|89.00|A|9
+END_STUDENT
+STUDENT|STU-1017|Nikhil Babu|Civil Engineering|2|4|5|7.53|7.53|Good
+SUBJECT|CE401|Structural Analysis|4|4|66.00|B|7
+SUBJECT|CE402|Surveying and Geomatics|4|4|72.00|B+|8
+SUBJECT|CE403|Concrete Technology|4|4|68.00|B|7
+SUBJECT|MA401|Engineering Mathematics|3|4|75.00|B+|8
+SUBJECT|CE405|Civil Engineering Lab|2|4|78.00|B+|8
+END_STUDENT
+STUDENT|STU-1018|Aditi Kulkarni|Civil Engineering|2|4|5|6.41|6.41|Average
+SUBJECT|CE401|Structural Analysis|4|4|55.00|C|6
+SUBJECT|CE402|Surveying and Geomatics|4|4|45.00|D|5
+SUBJECT|CE403|Concrete Technology|4|4|67.00|B|7
+SUBJECT|MA401|Engineering Mathematics|3|4|63.00|B|7
+SUBJECT|CE405|Civil Engineering Lab|2|4|76.00|B+|8
+END_STUDENT
+STUDENT|STU-1019|Manish Yadav|Information Technology|2|4|5|9.76|9.76|Excellent
+SUBJECT|IT401|Data Structures and Algorithms|4|4|96.00|A+|10
+SUBJECT|IT402|Web Technologies|4|4|94.00|A+|10
+SUBJECT|IT403|Computer Networks|4|4|88.00|A|9
+SUBJECT|MA401|Discrete Mathematics|3|4|95.00|A+|10
+SUBJECT|IT405|Web Development Lab|2|4|98.00|A+|10
+END_STUDENT
+STUDENT|STU-1020|Meera Joshi|Information Technology|2|4|5|8.53|8.53|Good
+SUBJECT|IT401|Data Structures and Algorithms|4|4|74.00|B+|8
+SUBJECT|IT402|Web Technologies|4|4|86.00|A|9
+SUBJECT|IT403|Computer Networks|4|4|77.00|B+|8
+SUBJECT|MA401|Discrete Mathematics|3|4|82.00|A|9
+SUBJECT|IT405|Web Development Lab|2|4|87.00|A|9
+END_STUDENT

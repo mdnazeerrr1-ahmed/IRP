@@ -1,0 +1,28 @@
+STUDENT_ACADEMIC_ANALYTICS_DATA_V1
+STUDENT_COUNT 5
+STUDENT|STU-1001|Alex Johnson|Computer Science|2|4|6|7.55|7.55|Good
+SUBJECT|CS401|Data Structures & Algorithms|4|4|94.50|A+|10
+SUBJECT|CS402|Database Management Systems|4|4|88.00|A|9
+SUBJECT|CS403|Operating Systems Architecture|4|4|91.00|A+|10
+SUBJECT|MA401|Discrete Mathematics & Logic|3|4|96.00|A+|10
+SUBJECT|CS405|Software Engineering Lab|2|4|92.00|A+|10
+SUBJECT|cv787|bee|5|3|8.00|F|0
+END_STUDENT
+STUDENT|STU-1002|Priya Patel|Electronics & Comm.|2|4|5|8.59|8.59|Good
+SUBJECT|EC401|Signals and Linear Systems|4|4|82.50|A|9
+SUBJECT|EC402|Microprocessor & Interfaces|4|4|76.00|B+|8
+SUBJECT|EC403|Electromagnetic Field Theory|3|4|71.00|B+|8
+SUBJECT|EC404|Analog Circuit Design|4|4|85.00|A|9
+SUBJECT|EC405|Hardware Simulation Lab|2|4|88.00|A|9
+END_STUDENT
+STUDENT|STU-1003|Michael Brown|Mechanical Engg.|2|4|5|4.76|4.76|Needs Improvement
+SUBJECT|ME401|Applied Thermodynamics|4|4|34.00|F|0
+SUBJECT|ME402|Fluid Mechanics & Machinery|4|4|46.00|D|5
+SUBJECT|ME403|Kinematics of Machines|4|4|58.00|C|6
+SUBJECT|ME404|Manufacturing Technology|3|4|64.00|B|7
+SUBJECT|ME405|Computer-Aided Drafting Lab|2|4|72.00|B+|8
+END_STUDENT
+STUDENT|STU-101|Shaik Adnan Hyder|CSE|2|3|0|0.00|0.00|Not Evaluated
+END_STUDENT
+STUDENT|md nazeer|md nazeer|ece|2|3|0|0.00|0.00|Not Evaluated
+END_STUDENT
